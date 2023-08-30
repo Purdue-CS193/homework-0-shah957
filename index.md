@@ -3,7 +3,7 @@
 # shah957's First CS193 Homework
 
 - CS193's faculty Rocks!
-- The content is very useful for porfolio building
+- The content is very useful for porfolio building.
 - It will help us gain knowledge of basic necessary tools needed as a CS proffesional. 
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
